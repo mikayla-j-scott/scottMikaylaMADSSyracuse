@@ -1,24 +1,27 @@
 # scottMikaylaMADSSyracuse
 Final repository for Masters of Science in Data Science at Syracuse University 2023
 
+
 # TLDR 
 The files in this repository are directly related to the files that were referenced in the final capstone project for the course
 
-# Courses Included 
 
-## Big Data Analytics - IST 718
+
+# Courses Included In the Portfolio Capstone 
+
+### Big Data Analytics - IST 718
 Project: The Rolling Stone's 500 Greatest Songs of All time 
 
-## Cloud Management - IST 615
+### Cloud Management - IST 615
 Project: Cloud Computing Proposal for an animal shelter 
 
-## Text Mining - IST 736
+### Text Mining - IST 736
 Project: “Earths Mightiest Heroes” - A Natural Language Processing Analysis
 
-## Applied Mahcine Learning (Data Analytics) - IST 707
+### Applied Mahcine Learning (Data Analytics) - IST 707
 Project: NYC AirBnB Listing: A Machine Learning Analysis
 
-## Natural Language Processing - IST 687
+### Natural Language Processing - IST 687
 Project: Movie Review Data Analysis 
 
 # All Completed Courses 
