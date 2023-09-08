@@ -21,7 +21,7 @@ Project: “Earths Mightiest Heroes” - A Natural Language Processing Analysis
 ### Applied Mahcine Learning (Data Analytics) - IST 707
 Project: NYC AirBnB Listing: A Machine Learning Analysis
 
-### Natural Language Processing - IST 687
+### Natural Language Processing - IST 664
 Project: Movie Review Data Analysis 
 
 # All Completed Courses 
