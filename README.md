@@ -1,10 +1,11 @@
 # scottMikaylaMADSSyracuse
 Final repository for Masters of Science in Data Science at Syracuse University 2023
 
+Link to final presentation: https://youtu.be/MFIFaMTC2Bk
+
 
 # TLDR 
 The files in this repository are directly related to the files that were referenced in the final capstone project for the course
-
 
 
 # Courses Included In the Portfolio Capstone 
